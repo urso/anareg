@@ -1,0 +1,6 @@
+hash: 004c1d0edc12c67d36afde086ca1b53e1990bf601818fbed5e55e35d14120752
+updated: 2016-07-18T20:24:57.847326864+02:00
+imports:
+- name: github.com/tmc/dot
+  version: 2ca5f650b7700041dd0a689af81eb8e46c5158d1
+devImports: []
